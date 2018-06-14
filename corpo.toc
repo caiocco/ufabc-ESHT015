@@ -1,0 +1,23 @@
+\changetocdepth {4}
+\select@language {brazil}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\contentsline {chapter}{Sum\'ario}{1}{section*.1}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\contentsline {chapter}{Lista de ilustra\c {c}\~{o}es}{2}{section*.2}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\contentsline {chapter}{Lista de tabelas}{3}{section*.3}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {1}\MakeTextUppercase {Introdu\IeC {\c c}\IeC {\~a}o}}{4}{chapter.1}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase {Grandes etapas ao longo da hist\IeC {\'o}ria}}{5}{chapter.2}
+\contentsline {section}{\numberline {2.1}Uma trajet\IeC {\'o}ria (inserir tipo)}{5}{section.2.1}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase {Balan\IeC {\c c}o da trajet\IeC {\'o}ria do munic\IeC {\'\i }pio}}{6}{chapter.3}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase {Tra\IeC {\c c}os marcantes da trajet\IeC {\'o}ria do munic\IeC {\'\i }pio}}{7}{chapter.4}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {5}\MakeTextUppercase {O passado encontra o presente e esbo\IeC {\c c}a o futuro}}{8}{chapter.5}
+\contentsline {section}{\numberline {5.1}Indicadores}{8}{section.5.1}
+\contentsline {section}{\numberline {5.2}Mobilidade}{8}{section.5.2}
+\vspace {\cftbeforechapterskip }
+\contentsline {chapter}{Gloss\IeC {\'a}rio}{9}{section*.5}
