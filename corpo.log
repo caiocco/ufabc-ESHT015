@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/TeX Live for SUSE Linux) (preloaded format=pdflatex 2018.1.27)  14 JUN 2018 19:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/TeX Live for SUSE Linux) (preloaded format=pdflatex 2018.1.27)  14 JUN 2018 20:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -826,7 +826,7 @@ Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 (/usr/share/texmf/tex/latex/ucs/data/uni-0.def
 File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
 )
-Package hyperref Info: Option `colorlinks' set `false' on input line 163.
+Package hyperref Info: Option `colorlinks' set `false' on input line 165.
 
 (/usr/share/texmf/tex/latex/glossaries/base/glossaries.sty
 Package: glossaries 2016/04/30 v4.23 (NLCT)
@@ -998,7 +998,7 @@ Package: glossary-tree 2016/04/30 v4.23 (NLCT)
 \glo@main@file=\write5
 \openout5 = `corpo.glo'.
 
-Package glossaries Info: Writing glossary file corpo.glo on input line 175.
+Package glossaries Info: Writing glossary file corpo.glo on input line 177.
 \c@meuteorema=\count281
 \c@meuaxioma=\count282
 \c@meucorolario=\count283
@@ -1032,26 +1032,26 @@ Writing index file corpo.idx
 (./corpo.aux)
 \openout1 = `corpo.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 870.
-LaTeX Font Info:    ... okay on input line 870.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 870.
-LaTeX Font Info:    ... okay on input line 870.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 870.
-LaTeX Font Info:    ... okay on input line 870.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 870.
-LaTeX Font Info:    ... okay on input line 870.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 870.
-LaTeX Font Info:    ... okay on input line 870.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 870.
-LaTeX Font Info:    ... okay on input line 870.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 870.
-LaTeX Font Info:    ... okay on input line 870.
-LaTeX Font Info:    Try loading font information for T1+lmr on input line 870.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 872.
+LaTeX Font Info:    ... okay on input line 872.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 872.
+LaTeX Font Info:    ... okay on input line 872.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 872.
+LaTeX Font Info:    ... okay on input line 872.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 872.
+LaTeX Font Info:    ... okay on input line 872.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 872.
+LaTeX Font Info:    ... okay on input line 872.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 872.
+LaTeX Font Info:    ... okay on input line 872.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 872.
+LaTeX Font Info:    ... okay on input line 872.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 872.
  (/usr/share/texmf/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )<<t1.cmap>>
 \AtBeginShipoutBox=\box40
-Package hyperref Info: Link coloring OFF on input line 870.
+Package hyperref Info: Link coloring OFF on input line 872.
 
 (/usr/share/texmf/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -1063,10 +1063,10 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 Redoing nameref's sectioning
 Redoing nameref's label
-LaTeX Info: Redefining \nameref on input line 870.
-LaTeX Info: Redefining \ref on input line 870.
-LaTeX Info: Redefining \pageref on input line 870.
-LaTeX Info: Redefining \nameref on input line 870.
+LaTeX Info: Redefining \nameref on input line 872.
+LaTeX Info: Redefining \ref on input line 872.
+LaTeX Info: Redefining \pageref on input line 872.
+LaTeX Info: Redefining \nameref on input line 872.
 \myptabbox=\box41
 \myptabboxwidth=\skip280
 (/usr/share/texmf/tex/latex/ucs/ucsencs.def
@@ -1074,7 +1074,7 @@ File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 )
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 870.
+(lastpage)             ! on input line 872.
 
 (/usr/share/texmf/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -1104,7 +1104,7 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Info: Redefining \microtypecontext on input line 870.
+LaTeX Info: Redefining \microtypecontext on input line 872.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -1136,7 +1136,7 @@ Package microtype Info: Character `029' is missing
 \openout4 = `corpo.ist'.
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Try loading font information for T1+lmss on input line 939.
+LaTeX Font Info:    Try loading font information for T1+lmss on input line 941.
 
  (/usr/share/texmf/tex/latex/lm/t1lmss.fd
 File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -1191,7 +1191,7 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 s been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.939 	\newpage
+l.941 	\newpage
                 \listoffigures [1
 
 
@@ -1204,46 +1204,72 @@ l.939 	\newpage
 
 ] [7
 
-]
-No file corpo.bbl.
-[8
+] (/usr/share/texmf/tex/latex/ucs/data/uni-32.def
+File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
+)
+<img/pdcptm_57a.png, id=74, 401.62695pt x 186.24522pt>
+File: img/pdcptm_57a.png Graphic file (type png)
+
+<use img/pdcptm_57a.png>
+Package pdftex.def Info: img/pdcptm_57a.png used on input line 1014.
+(pdftex.def)             Requested size: 455.0pt x 210.99458pt.
+ (./corpo.bbl (./corpo.brf)
+\tf@brf=\write7
+\openout7 = `corpo.brf'.
+
+ [8
+
+] [9 <./img/pdcptm_57a.png>]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\uppercase' on input line 3.
+
+bibitemlist
+) [10
 
 ]
 
 Package glossaries Warning: Deprecated command \glossarystyle.
  I recommend you switch to \setglossarystyle unless you want to maintain backwa
-rd compatibility on input line 1056.
+rd compatibility on input line 1066.
 
 No file corpo.gls.
 
 AED: lastpage setting LastPage
-[9
+[11
 
 ]
-\tf@toc=\write7
-\openout7 = `corpo.toc'.
+\tf@toc=\write8
+\openout8 = `corpo.toc'.
 
-\tf@lof=\write8
-\openout8 = `corpo.lof'.
+\tf@lof=\write9
+\openout9 = `corpo.lof'.
 
-\tf@lot=\write9
-\openout9 = `corpo.lot'.
+\tf@lot=\write10
+\openout10 = `corpo.lot'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1145.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1145.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1155.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1155.
  (./corpo.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1145.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 1145.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1145.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1155.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1155.
+
+Package rerunfilecheck Info: File `corpo.brf' has not changed.
+(rerunfilecheck)             Checksum: F230D5779C6A9381598F2714A2E54B83;48.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1155.
  ) 
 Here is how much of TeX's memory you used:
- 21926 strings out of 494041
- 329555 string characters out of 6158495
- 542951 words of memory out of 5000000
- 24843 multiletter control sequences out of 15000+600000
- 56631 words of font info for 65 fonts, out of 8000000 for 9000
+ 22244 strings out of 494041
+ 333265 string characters out of 6158495
+ 543267 words of memory out of 5000000
+ 25135 multiletter control sequences out of 15000+600000
+ 61371 words of font info for 70 fonts, out of 8000000 for 9000
  475 hyphenation exceptions out of 8191
- 51i,12n,52p,1933b,520s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 51i,12n,77p,1933b,599s stack positions out of 5000i,500n,10000p,200000b,80000s
 pdfTeX warning (dest): name{glo:idhm} has been referenced but does not exist,
  replaced by a fixed one
 
@@ -1253,10 +1279,10 @@ re/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/l
 m/lmr8.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf
 /fonts/type1/public/lm/lmri12.pfb></usr/share/texmf/fonts/type1/public/lm/lmss1
 7.pfb></usr/share/texmf/fonts/type1/public/lm/lmssbx10.pfb>
-Output written on corpo.pdf (10 pages, 190850 bytes).
+Output written on corpo.pdf (12 pages, 246856 bytes).
 PDF statistics:
- 154 PDF objects out of 1000 (max. 8388607)
- 130 compressed objects within 2 object streams
- 24 named destinations out of 1000 (max. 500000)
- 17001 words of extra memory for PDF output out of 17280 (max. 10000000)
+ 180 PDF objects out of 1000 (max. 8388607)
+ 150 compressed objects within 2 object streams
+ 30 named destinations out of 1000 (max. 500000)
+ 19062 words of extra memory for PDF output out of 20736 (max. 10000000)
 

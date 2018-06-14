@@ -20,4 +20,6 @@
 \contentsline {section}{\numberline {5.1}Indicadores}{8}{section.5.1}
 \contentsline {section}{\numberline {5.2}Mobilidade}{8}{section.5.2}
 \vspace {\cftbeforechapterskip }
-\contentsline {chapter}{Gloss\IeC {\'a}rio}{9}{section*.5}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\contentsline {chapter}{\uppercase {Refer\^encias}}{10}{section*.7}
+\contentsline {chapter}{Gloss\IeC {\'a}rio}{11}{section*.8}
