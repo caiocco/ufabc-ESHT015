@@ -13,13 +13,11 @@
 \contentsline {section}{\numberline {2.1}Uma trajet\IeC {\'o}ria (inserir tipo)}{5}{section.2.1}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase {Balan\IeC {\c c}o da trajet\IeC {\'o}ria do munic\IeC {\'\i }pio}}{6}{chapter.3}
-\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase {Tra\IeC {\c c}os marcantes da trajet\IeC {\'o}ria do munic\IeC {\'\i }pio}}{7}{chapter.4}
-\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {5}\MakeTextUppercase {O passado encontra o presente e esbo\IeC {\c c}a o futuro}}{8}{chapter.5}
-\contentsline {section}{\numberline {5.1}Indicadores}{8}{section.5.1}
-\contentsline {section}{\numberline {5.2}Mobilidade}{8}{section.5.2}
+\contentsline {section}{\numberline {3.1}Tra\IeC {\c c}os marcantes da trajet\IeC {\'o}ria do munic\IeC {\'\i }pio}{6}{section.3.1}
+\contentsline {section}{\numberline {3.2}O passado encontra o presente e esbo\IeC {\c c}a o futuro}{6}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Indicadores}{6}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Mobilidade}{7}{subsection.3.2.2}
 \vspace {\cftbeforechapterskip }
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
-\contentsline {chapter}{\uppercase {Refer\^encias}}{10}{section*.7}
-\contentsline {chapter}{Gloss\IeC {\'a}rio}{11}{section*.8}
+\contentsline {chapter}{\uppercase {Refer\^encias}}{8}{section*.7}
+\contentsline {chapter}{Gloss\IeC {\'a}rio}{9}{section*.8}
