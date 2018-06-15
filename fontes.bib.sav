@@ -38,4 +38,46 @@
   timestamp   = {2016.04.10},
 }
 
+@Book{villaca1986a,
+  author        = {Villa{\c{c}}a, F.},
+  title         = {O que todo cidad{\~a}o precisa saber sobre habita{\c{c}}{\~a}o},
+  year          = {1986},
+  series        = {Cadernos de educa{\c{c}}{\~a}o pol{\'\i}tica},
+  note          = {Acesso em 2018-06-14.},
+  publisher     = {Global Editora},
+  url           = {https://books.google.com.br/books?id=M4xFAAAAYAAJ},
+  __markedentry = {[caio:6]},
+  lccn          = {88884070},
+}
+
+@MastersThesis{stefani2007a,
+  author      = {Celia Regina Baider Stefani},
+  title       = {O sistema ferroviário paulista: um estudo sobre a evolução do transporte de passageiros sobre trilhos},
+  institution = {Faculdade de Filosofia, Letras e Ciências Humanas, Universidade de São Paulo},
+  year        = {2007},
+  date        = {2018-06-14},
+  note        = {Acesso em 2018-06-14.},
+  doi         = {10.11606/D.8.2007.tde-12022008-102649},
+  url         = {http://www.teses.usp.br/teses/disponiveis/8/8136/tde-12022008-102649/pt-br.php},
+  address     = {São Paulo},
+  owner       = {caio},
+  school      = {Faculdade de Filosofia, Letras e Ciências Humanas, Universidade de São Paulo},
+  timestamp   = {2016.04.10},
+}
+
+@MastersThesis{rosa2006a,
+  author      = {Silvio José Rosa},
+  title       = {Transporte e exclusão social: a mobilidade da população de baixa renda da Região Metropolitana de São Paulo e trem metropolitano},
+  institution = {Escola Politécnica, Universidade de São Paulo},
+  year        = {2006},
+  date        = {2018-06-14},
+  note        = {Acesso em 2018-06-14.},
+  doi         = {10.11606/D.3.2006.tde-07122006-163515},
+  url         = {http://www.teses.usp.br/teses/disponiveis/3/3138/tde-07122006-163515/pt-br.php},
+  address     = {São Paulo},
+  owner       = {caio},
+  school      = {Escola Politécnica, Letras e Ciências Humanas, Universidade de São Paulo},
+  timestamp   = {2016.04.10},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
