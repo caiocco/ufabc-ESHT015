@@ -111,4 +111,29 @@
   url    = {http://patadata.org/maparacial/#lat=-87.852486&lon=86.36487&z=11&o=t},
 }
 
+@Article{pasternak2005a,
+  author       = {Pasternak, Suzana and B{\'o}gus, Lucia M Machado},
+  title        = {Migra{\c{c}}{\~a}o na metr{\'o}pole},
+  journaltitle = {S{\~a}o Paulo em perspectiva},
+  year         = {2005},
+  date         = {2018-06-18},
+  volume       = {19},
+  number       = {4},
+  pages        = {21--47},
+  note         = {Acesso em 2018-06-18.},
+  url          = {http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0102-88392005000400002},
+  journal      = {S{\~a}o Paulo em perspectiva},
+  publisher    = {SciELO Brasil},
+}
+
+@Article{cunha2014a,
+  author       = {Aparecido Soares da Cunha},
+  title        = {Migra{\c{c}}{\~a}o, Territ{\'o}rio, Urbaniza{\c{c}}{\~a}o, Crescimento Populacional e Mobilidade na Regi{\~a}o Metropolitana de S{\~a}o Paulo},
+  journaltitle = {XIX Encontro Nacional de Estudos Populacionais},
+  year         = {2014},
+  date         = {2018-06-18},
+  note         = {Acesso em 2018-06-18.},
+  url          = {http://www.abep.org.br/~abeporgb/abep.info/files/trabalhos/trabalho_completo/TC-1-5-237-294.pdf},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
