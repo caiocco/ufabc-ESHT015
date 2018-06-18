@@ -5,6 +5,19 @@
 \providecommand{\abntbstabout}[1]{}
 \abntbstabout{v-1.9.6 }
 
+\bibitem[Carvalho 2018]{carvalho2018a}
+\abntrefinfo{Carvalho}{CARVALHO}{2018}
+{CARVALHO, L. \emph{Valsa brasileira: Do boom ao caos econ{\^o}mico}. Todavia,
+  2018.
+ISBN 9788593828638. Dispon{\'\i}vel em:
+  \url{https://books.google.com.br/books?id=XppWDwAAQBAJ}.}
+
+\bibitem[CEM 2015]{cem2015a}
+\abntrefinfo{CEM}{CEM}{2015}
+{CEM.
+Acesso em 2018-06-18., \emph{Bases de Dados}. 2015.
+Dispon{\'\i}vel em: \url{http://web.fflch.usp.br/centrodametropole/716}.}
+
 \bibitem[Chagas 2007]{cassiele2007a}
 \abntrefinfo{Chagas}{CHAGAS}{2007}
 {CHAGAS, C.~A. de M.
@@ -14,6 +27,14 @@ Disserta\c{c}\~{a}o (mathesis) --- Faculdade de Arquitetura e Urbanismo,
   Universidade de São Paulo, 2007. Acesso em 2018-06-14.
 Dispon{\'\i}vel em:
   \url{http://www.teses.usp.br/teses/disponiveis/16/16139/tde-19032009-152622/pt-br.php}.}
+
+\bibitem[CPRM 2015]{cprm2015a}
+\abntrefinfo{CPRM}{CPRM}{2015}
+{CPRM.
+Acesso em 2018-06-18., \emph{Cartas de Suscetibilidade a Movimentos
+  Gravitacionais de Massa e Inundações - São Paulo}. 2015.
+Dispon{\'\i}vel em:
+  \url{http://gd.cprm.gov.br/suscetibilidade/franciscomorato/sig\_franciscomorato\_sp\_suscet.zip}.}
 
 \bibitem[CPTM 2010]{cptm2010a}
 \abntrefinfo{CPTM}{CPTM}{2010}
@@ -29,6 +50,15 @@ Dispon{\'\i}vel em:
 Acesso em 2018-06-18.
 Dispon{\'\i}vel em:
   \url{http://www.abep.org.br/~abeporgb/abep.info/files/trabalhos/trabalho\_completo/TC-1-5-237-294.pdf}.}
+
+\bibitem[IBGE 2010]{ibge2010a}
+\abntrefinfo{IBGE}{IBGE}{2010}
+{IBGE.
+Acesso em 2018-06-18., \emph{Índice de
+  /Censos/Censo\_Demografico\_2010/Resultados\_do\_Universo/Agregados\_por\_Setores\_Censitarios/}.
+  2010.
+Dispon{\'\i}vel em:
+  \url{ftp://ftp.ibge.gov.br/Censos/Censo\_Demografico\_2010/Resultados\_do\_Universo/Agregados\_por\_Setores\_Censitarios/}.}
 
 \bibitem[IBGE 2018]{ibge2018a}
 \abntrefinfo{IBGE}{IBGE}{2018}
@@ -57,14 +87,6 @@ Dispon{\'\i}vel em:
 Acesso em 2018-06-18.
 Dispon{\'\i}vel em:
   \url{http://www.scielo.br/scielo.php?script=sci\_arttext&pid=S0102-88392005000400002}.}
-
-\bibitem[pata 2018]{pata2018a}
-\abntrefinfo{pata}{PATA}{2018}
-{PATA, P. a. t.~a.
-Acesso em 2018-06-18., \emph{Mapa interativo de distribuição racial no
-  Brasil}. 2018.
-Dispon{\'\i}vel em:
-  \url{http://patadata.org/maparacial/\#lat=-87.852486&lon=86.36487&z=11&o=t}.}
 
 \bibitem[Rosa 2006]{rosa2006a}
 \abntrefinfo{Rosa}{ROSA}{2006}
