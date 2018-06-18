@@ -77,8 +77,20 @@
   url         = {http://www.teses.usp.br/teses/disponiveis/3/3138/tde-07122006-163515/pt-br.php},
   address     = {São Paulo},
   owner       = {caio},
-  school      = {Escola Politécnica, Letras e Ciências Humanas, Universidade de São Paulo},
+  school      = {Escola Politécnica, Universidade de São Paulo},
   timestamp   = {2016.04.10},
+}
+
+@PhdThesis{suarez2014a,
+  author      = {Suarez, Pedro Sales de Melo},
+  title       = {O eixo S{\~a}o Paulo-Campinas: concentra{\c{c}}{\~a}o de capitais e segrega{\c{c}}{\~a}o urbana},
+  institution = {Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo},
+  year        = {2014},
+  date        = {2018-06-18},
+  note        = {Acesso em 2018-06-18.},
+  doi         = {10.11606/D.16.2014.tde-25072014-103359},
+  url         = {http://www.teses.usp.br/teses/disponiveis/16/16139/tde-25072014-103359/pt-br.php},
+  school      = {Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
