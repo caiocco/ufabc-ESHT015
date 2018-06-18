@@ -9,15 +9,17 @@
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \contentsline {chapter}{\chapternumberline {1}\MakeTextUppercase {Introdu\IeC {\c c}\IeC {\~a}o}}{4}{chapter.1}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase {Grandes etapas ao longo da hist\IeC {\'o}ria}}{5}{chapter.2}
-\contentsline {section}{\numberline {2.1}Uma trajet\IeC {\'o}ria (inserir tipo)}{5}{section.2.1}
+\contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase {Trajet\IeC {\'o}ria de Francisco Morato}}{5}{chapter.2}
+\contentsline {section}{\numberline {2.1}As grandes etapas}{5}{section.2.1}
+\contentsline {section}{\numberline {2.2}Compreendendo a trajet\IeC {\'o}ria}{6}{section.2.2}
+\contentsline {section}{\numberline {2.3}Tra\IeC {\c c}os marcantes da trajet\IeC {\'o}ria do munic\IeC {\'\i }pio}{8}{section.2.3}
+\contentsline {section}{\numberline {2.4}Balan\IeC {\c c}o da trajet\IeC {\'o}ria}{8}{section.2.4}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase {Balan\IeC {\c c}o da trajet\IeC {\'o}ria do munic\IeC {\'\i }pio}}{6}{chapter.3}
-\contentsline {section}{\numberline {3.1}Tra\IeC {\c c}os marcantes da trajet\IeC {\'o}ria do munic\IeC {\'\i }pio}{8}{section.3.1}
-\contentsline {section}{\numberline {3.2}O passado encontra o presente e esbo\IeC {\c c}a o futuro}{8}{section.3.2}
-\contentsline {subsection}{\numberline {3.2.1}Indicadores}{8}{subsection.3.2.1}
-\contentsline {subsection}{\numberline {3.2.2}Mobilidade}{8}{subsection.3.2.2}
+\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase {O passado encontra o presente e esbo\IeC {\c c}a o futuro}}{9}{chapter.3}
+\contentsline {subsection}{\numberline {3.0.1}Indicadores}{9}{subsection.3.0.1}
+\contentsline {subsection}{\numberline {3.0.2}Composi\IeC {\c c}\IeC {\~a}o \IeC {\'e}tnica-racial}{9}{subsection.3.0.2}
+\contentsline {subsection}{\numberline {3.0.3}Mobilidade}{9}{subsection.3.0.3}
 \vspace {\cftbeforechapterskip }
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
-\contentsline {chapter}{\uppercase {Refer\^encias}}{10}{section*.7}
-\contentsline {chapter}{Gloss\IeC {\'a}rio}{11}{section*.8}
+\contentsline {chapter}{\uppercase {Refer\^encias}}{12}{section*.8}
+\contentsline {chapter}{Gloss\IeC {\'a}rio}{13}{section*.9}
