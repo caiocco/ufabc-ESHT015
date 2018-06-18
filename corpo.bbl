@@ -5,6 +5,16 @@
 \providecommand{\abntbstabout}[1]{}
 \abntbstabout{v-1.9.6 }
 
+\bibitem[Chagas 2007]{cassiele2007a}
+\abntrefinfo{Chagas}{CHAGAS}{2007}
+{CHAGAS, C.~A. de M.
+\emph{A periferização da pobreza e da degradação sócio-ambiental na
+  Região Metropolitana de São Paulo, o caso de Francisco Morato}.
+Disserta\c{c}\~{a}o (mathesis) --- Faculdade de Arquitetura e Urbanismo,
+  Universidade de São Paulo, 2007. Acesso em 2018-06-14.
+Dispon{\'\i}vel em:
+  \url{http://www.teses.usp.br/teses/disponiveis/16/16139/tde-19032009-152622/pt-br.php}.}
+
 \bibitem[CPTM 2010]{cptm2010a}
 \abntrefinfo{CPTM}{CPTM}{2010}
 {CPTM. \emph{Plano diretor de inserção urbana da CPTM}. [S.l.]: {Companhia
@@ -40,5 +50,12 @@ Disserta\c{c}\~{a}o (Mestrado) --- Faculdade de Filosofia, Letras e Ciências
   Humanas, Universidade de São Paulo, São Paulo, 2007. Acesso em 2018-06-14.
 Dispon{\'\i}vel em:
   \url{http://www.teses.usp.br/teses/disponiveis/8/8136/tde-12022008-102649/pt-br.php}.}
+
+\bibitem[Villa{\c{c}}a 1986]{villaca1986a}
+\abntrefinfo{Villa{\c{c}}a}{VILLA{\c{C}}A}{1986}
+{VILLA{\c{C}}A, F. \emph{O que todo cidad{\~a}o precisa saber sobre
+  habita{\c{c}}{\~a}o}. Global Editora, 1986.  (Cadernos de educa{\c{c}}{\~a}o
+  pol{\'\i}tica). Acesso em 2018-06-14. Dispon{\'\i}vel em:
+  \url{https://books.google.com.br/books?id=M4xFAAAAYAAJ}.}
 
 \end{thebibliography}
