@@ -23,6 +23,7 @@
 \contentsline {subsection}{\numberline {3.0.1}Indicadores}{11}{subsection.3.0.1}
 \contentsline {subsection}{\numberline {3.0.2}Composi\IeC {\c c}\IeC {\~a}o \IeC {\'e}tnica-racial}{11}{subsection.3.0.2}
 \contentsline {subsection}{\numberline {3.0.3}Mobilidade}{13}{subsection.3.0.3}
+\contentsline {subsection}{\numberline {3.0.4}Saneamento B\IeC {\'a}sico}{14}{subsection.3.0.4}
 \vspace {\cftbeforechapterskip }
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
 \contentsline {chapter}{\uppercase {Refer\^encias}}{16}{section*.10}
