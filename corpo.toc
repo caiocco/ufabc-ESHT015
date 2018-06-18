@@ -14,7 +14,7 @@
 \contentsline {section}{\numberline {2.2}Compreendendo a trajet\IeC {\'o}ria}{6}{section.2.2}
 \contentsline {subsection}{\numberline {2.2.1}Caracteriza\IeC {\c c}\IeC {\~a}o do tecido}{6}{subsection.2.2.1}
 \contentsline {subsection}{\numberline {2.2.2}Migra\IeC {\c c}\IeC {\~a}o nordestina}{8}{subsection.2.2.2}
-\contentsline {subsection}{\numberline {2.2.3}Fragilidade institucional}{8}{subsection.2.2.3}
+\contentsline {subsection}{\numberline {2.2.3}Fragilidade institucional}{9}{subsection.2.2.3}
 \contentsline {section}{\numberline {2.3}Os tra\IeC {\c c}os marcantes da trajet\IeC {\'o}ria}{9}{section.2.3}
 \contentsline {section}{\numberline {2.4}Um breve balan\IeC {\c c}o}{9}{section.2.4}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
@@ -25,4 +25,4 @@
 \vspace {\cftbeforechapterskip }
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
 \contentsline {chapter}{\uppercase {Refer\^encias}}{14}{section*.9}
-\contentsline {chapter}{Gloss\IeC {\'a}rio}{15}{section*.10}
+\contentsline {chapter}{Gloss\IeC {\'a}rio}{16}{section*.10}
