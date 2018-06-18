@@ -93,4 +93,22 @@
   school      = {Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo},
 }
 
+@Misc{ibge2018a,
+  author = {IBGE},
+  title  = {IBGE | Brasil em Síntese | São Paulo | Franco da Rocha | História \& Fotos:},
+  year   = {2018},
+  date   = {2018-06-18},
+  note   = {Acesso em 2018-06-18.},
+  url    = {https://cidades.ibge.gov.br/brasil/sp/franco-da-rocha/historico},
+}
+
+@Misc{pata2018a,
+  author = {pata, Post advertising technology agency},
+  title  = {Mapa interativo de distribuição racial no Brasil},
+  year   = {2018},
+  date   = {2018-06-18},
+  type   = {Acesso em 2018-06-18.},
+  url    = {http://patadata.org/maparacial/#lat=-87.913036&lon=87.078908&z=12&o=t},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
