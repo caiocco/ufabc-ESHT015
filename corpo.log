@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/TeX Live for SUSE Linux) (preloaded format=pdflatex 2018.4.22)  18 JUN 2018 13:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/TeX Live for SUSE Linux) (preloaded format=pdflatex 2018.1.27)  18 JUN 2018 19:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1195,7 +1195,7 @@ l.951 	\newpage
                 \listoffigures [1
 
 
-] (./corpo.lof) [2] (./corpo.lot) [3] [4
+] (./corpo.lof) [2] [3
 
 ]
 LaTeX Font Info:    Try loading font information for OMS+lmr on input line 986.
@@ -1207,78 +1207,98 @@ File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 986.
 
-<img/linha_do_tempo.png, id=91, 920.43875pt x 586.19pt>
+<img/linha_do_tempo.png, id=90, 920.43875pt x 586.19pt>
 File: img/linha_do_tempo.png Graphic file (type png)
 
 <use img/linha_do_tempo.png>
 Package pdftex.def Info: img/linha_do_tempo.png used on input line 995.
 (pdftex.def)             Requested size: 357.4107pt x 227.62204pt.
- [5
+ [4
 
  <./img/linha_do_tempo.png>]
 (/usr/share/texmf/tex/latex/ucs/data/uni-32.def
 File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
-) [6] [7] [8] [9] [10] [11
+) [5] [6] [7] [8] [9] [10
 
 ]
-<img/mapa_racial.png, id=200, 1024.57782pt x 611.28375pt>
-File: img/mapa_racial.png Graphic file (type png)
+<img/ResidentesNegroseBrancos.png, id=202, 846.36736pt x 598.42938pt>
+File: img/ResidentesNegroseBrancos.png Graphic file (type png)
 
-<use img/mapa_racial.png>
-Package pdftex.def Info: img/mapa_racial.png used on input line 1095.
-(pdftex.def)             Requested size: 711.32129pt x 424.3886pt.
-
-Overfull \hbox (3.32129pt too wide) in paragraph at lines 1095--1097
- [][] 
- []
-
-
-LaTeX Warning: Float too large for page by 37.23862pt on input line 1098.
+<use img/ResidentesNegroseBrancos.png>
+Package pdftex.def Info: img/ResidentesNegroseBrancos.png used on input line 10
+97.
+(pdftex.def)             Requested size: 563.39546pt x 398.33858pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[12 <./img/mapa_racial.png>]
-<img/pdcptm_57a.png, id=216, 401.62695pt x 186.24522pt>
+[11 <./img/ResidentesNegroseBrancos.png>]
+<img/pdcptm_57a.png, id=217, 401.62695pt x 186.24522pt>
 File: img/pdcptm_57a.png Graphic file (type png)
 
 <use img/pdcptm_57a.png>
-Package pdftex.def Info: img/pdcptm_57a.png used on input line 1110.
+Package pdftex.def Info: img/pdcptm_57a.png used on input line 1112.
 (pdftex.def)             Requested size: 455.0pt x 210.99458pt.
 LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 1121.
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 1123.
 
- [13
+ [12
 
 
  <./img/pdcptm_57a.png>]
-<img/cassiele_vias_acesso.png, id=235, 2215.27625pt x 1837.86626pt>
+<img/cassiele_vias_acesso.png, id=237, 2215.27625pt x 1837.86626pt>
 File: img/cassiele_vias_acesso.png Graphic file (type png)
 
 <use img/cassiele_vias_acesso.png>
-Package pdftex.def Info: img/cassiele_vias_acesso.png used on input line 1140.
-(pdftex.def)             Requested size: 455.0pt x 377.46611pt.
- (./corpo.bbl (./corpo.brf)
+Package pdftex.def Info: img/cassiele_vias_acesso.png used on input line 1142.
+(pdftex.def)             Requested size: 274.33987pt x 227.62204pt.
+ [13 <./img/cassiele_vias_acesso.png>]
+[14] <img/DESLIZAMENTOF5.png, id=263, 846.36736pt x 432.17218pt>
+File: img/DESLIZAMENTOF5.png Graphic file (type png)
+
+<use img/DESLIZAMENTOF5.png>
+Package pdftex.def Info: img/DESLIZAMENTOF5.png used on input line 1170.
+(pdftex.def)             Requested size: 455.0pt x 232.33417pt.
+
+<img/APPeInundacao2.png, id=272, 847.66183pt x 451.74792pt>
+File: img/APPeInundacao2.png Graphic file (type png)
+
+<use img/APPeInundacao2.png>
+Package pdftex.def Info: img/APPeInundacao2.png used on input line 1175.
+(pdftex.def)             Requested size: 455.0pt x 242.4858pt.
+ [15] (./corpo.bbl (./corpo.brf)
 \tf@brf=\write7
 \openout7 = `corpo.brf'.
 
- [14] [15 <./img/cassiele_vias_acesso.png>]
+ [16 <./img/DESLIZAMENTOF5.png> <./img/APPeInundacao2.png>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 3.
 
 bibitemlist
-[16
 
-]) [17]
+Underfull \hbox (badness 2894) in paragraph at lines 62--62
+[]\T1/lmr/m/n/12 (+20) IBGE. Acesso em 2018-06-18., \T1/lmr/m/it/12 (+20) Ín-di
+ce de /Cen- 
+ []
+
+
+Overfull \hbox (26.97467pt too wide) in paragraph at lines 62--62
+\T1/lmr/m/it/12 (-20) sos/Censo_Demografico_2010/Resultados_do_Universo/Agregad
+os_por_Setores_Censitarios/\T1/lmr/m/n/12 (-20) . 
+ []
+
+[17
+
+]) [18]
 
 Package glossaries Warning: Deprecated command \glossarystyle.
  I recommend you switch to \setglossarystyle unless you want to maintain backwa
-rd compatibility on input line 1201.
+rd compatibility on input line 1227.
 
 (./corpo.gls) 
 AED: lastpage setting LastPage
-[18
+[19
 
 
 
@@ -1289,36 +1309,30 @@ AED: lastpage setting LastPage
 \tf@lof=\write9
 \openout9 = `corpo.lof'.
 
-\tf@lot=\write10
-\openout10 = `corpo.lot'.
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1290.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1290.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1316.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1316.
  (./corpo.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1290.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1290.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1316.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1316.
 
 Package rerunfilecheck Info: File `corpo.brf' has not changed.
-(rerunfilecheck)             Checksum: 2F83EBEB8AC27E16C68310D154855D87;2160.
+(rerunfilecheck)             Checksum: 3AC31BC4DAAACBB589607CA3A5219FAF;2410.
 
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1290.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1316.
  ) 
 Here is how much of TeX's memory you used:
- 22583 strings out of 494041
- 338457 string characters out of 6158516
- 552952 words of memory out of 5000000
- 25355 multiletter control sequences out of 15000+600000
- 70962 words of font info for 109 fonts, out of 8000000 for 9000
+ 22634 strings out of 494041
+ 339433 string characters out of 6158495
+ 553736 words of memory out of 5000000
+ 25395 multiletter control sequences out of 15000+600000
+ 71235 words of font info for 112 fonts, out of 8000000 for 9000
  475 hyphenation exceptions out of 8191
  51i,12n,77p,2673b,610s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{glo:fabhat} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{glo:snis} has been referenced but does not exist, r
-eplaced by a fixed one
+pdfTeX warning (dest): name{glo:ipt} has been referenced but does not exist, 
+replaced by a fixed one
 
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dvip
 s/lm/lm-mathsy.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/sha
@@ -1329,10 +1343,10 @@ mf/fonts/type1/public/lm/lmr8.pfb></usr/share/texmf/fonts/type1/public/lm/lmri1
 s/type1/public/lm/lmss12.pfb></usr/share/texmf/fonts/type1/public/lm/lmss17.pfb
 ></usr/share/texmf/fonts/type1/public/lm/lmssbx10.pfb></usr/share/texmf/fonts/t
 ype1/public/lm/lmsy10.pfb>
-Output written on corpo.pdf (19 pages, 1992481 bytes).
+Output written on corpo.pdf (20 pages, 9732290 bytes).
 PDF statistics:
- 440 PDF objects out of 1000 (max. 8388607)
- 388 compressed objects within 4 object streams
- 66 named destinations out of 1000 (max. 500000)
- 21693 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 486 PDF objects out of 1000 (max. 8388607)
+ 420 compressed objects within 5 object streams
+ 72 named destinations out of 1000 (max. 500000)
+ 21703 words of extra memory for PDF output out of 24883 (max. 10000000)
 
